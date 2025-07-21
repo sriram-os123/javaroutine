@@ -1,0 +1,24 @@
+//these are literals concept in java
+
+package com.company;
+import java.util.*;
+public class Literalsconcept{
+    public static void main(String[] args){
+        //Integral type contain int,short,byte,long
+        byte first=25;
+        short second=45;
+        int  third=56;
+        long fourth=678379994L;
+
+
+        double fifth=56.55D;
+        float sixth=45.2f;
+        char seventh='r';
+        boolean a=true;
+        String ram="sriram";
+        System.out.println(ram);
+
+    }
+}
+
+
